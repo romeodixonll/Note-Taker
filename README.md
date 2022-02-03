@@ -1,3 +1,4 @@
+
 # Note-Taker
 
 ![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -13,8 +14,11 @@ An app that can be used to write, save, and delete notes. Back-end code Node.js,
 - [Test](#Test)
 - [Questions](#Questions)
 
+
+
 ## Installation
 Cloning the repo from Github. Then install Node.js. Run package.json with npm install. 
+
 
 ## Usage
 Add notes on right side main body. Click saved button in upper right hand corner. Note saved and will appear on left side bar. Click not on side bar to view and click trash can in note to delete. 
@@ -32,3 +36,6 @@ npm test
 ## Questions 
 Email me at: romeodixonll@gmail.com 
 Find me on Github: https://github.com/romeodixonll
+
+
+
