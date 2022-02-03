@@ -7,8 +7,7 @@ const {
   readAndAppend,
   readAndDelete,
 } = require("./helpers/fsUtils");
-const dbRoute = require("./db/db.json");
-const { on } = require("events");
+
 
 const PORT = process.env.port || 3001;
 const app = express();
@@ -29,7 +28,7 @@ app.get("/notes", (req, res) => {
 });
 
 app.get("/api/notes", (req, res) => {
-  // res.json('./db/db.json')
+  
 
   readFromFile("./db/db.json").then((data) => res.json(JSON.parse(data)));
 });
