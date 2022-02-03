@@ -34,7 +34,7 @@ Contributors are welcome. Installation above.
 npm test
 
 ## Questions 
-Email me at: romeodixonll@gmail.com 
+Email me at: romeodixonll@gmail.com </br>
 Find me on Github: https://github.com/romeodixonll
 
 
