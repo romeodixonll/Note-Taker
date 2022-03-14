@@ -3,6 +3,8 @@
 
 ![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+Deployed link: https://dr-note-taker-app.herokuapp.com/
+
 ## Description
 An app that can be used to write, save, and delete notes. Back-end code Node.js, NPM packages, and Express.js used also Javascript, HTML, and CSS. Notes saved in JSON file
 
